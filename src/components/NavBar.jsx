@@ -32,10 +32,6 @@ const NavBar = () => {
           <Spacer/>
           <ButtonGroup gap='2'>
             
-            <Link to={"/contaco"}>
-              <Button color='#5DADE2'>Contacto</Button>
-            </Link>
-            
             <Link to={"/catalogo"}>
               <Button color='#5DADE2'>Catalogo</Button> 
             </Link>
